@@ -52,11 +52,9 @@ Then open your browser to [http://localhost:5173](http://localhost:5173)
 
 * Rotate your phone/device to see the heading update.
 * Tap **Reset Yaw** to make your current direction the new 0°.
-* Tap **Save Heading** to store a reset point you may want to return to.
-* Tap on any saved heading to restore that heading offset.
-* Use the ✏️ icon to rename saved headings, and 🗑️ to delete them.
-* Tap **Undo Reset** to revert to the previous heading reset.
-
+* Then the program automatically lists out your previous yaw offsets to go back to if you would like.
+* Tap on any saved yaw reference point to restore that yaw reference point offset.
+* Use the ✏️ icon to rename saved yaw reference points, and 🗑️ to delete them.
 > Best used on mobile devices that support gyroscope input.
 
 ---
